@@ -1,6 +1,6 @@
 # DualShock 2 tester
 
-This PS2 homebrew allows you to test a DualShock 2 controller on your PS2.
+This PS2 homebrew allows you to test a DualShock 2 controller on your PS2 (and PCSX2 as well).
 
 ### How to compile
 
